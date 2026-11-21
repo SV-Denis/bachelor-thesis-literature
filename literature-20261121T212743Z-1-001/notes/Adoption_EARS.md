@@ -1,4 +1,4 @@
-Relevance: 
+Relevance: Shows an example of EARS usage, provides further works to cite such as for CLEAR (Constrained Language Enhanced Approach to Requirements)
 
 1. Ce problema..., 
 
@@ -22,8 +22,7 @@ Constrained Language Enhanced Approach to Requirements (CLEAR). (augmented EARS)
 
 2-day workshop with Alistair Mavin, on-going training in Honeywell
 
-results: overall very positive feedback, but hard to fully adapt
-
+results: overall very positive feedback, but hard to fully scale across the organization
 
 
 4. Open questions?
