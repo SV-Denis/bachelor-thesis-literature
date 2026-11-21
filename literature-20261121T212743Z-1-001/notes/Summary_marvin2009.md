@@ -26,7 +26,7 @@ Method:
 - tested the effectiveness of the EARS ruleset
 
 EARS templates:
-- Ubiquitous: The "<system name>" shall <system response> (always active)
+- Ubiquitous: The < system name > shall <system response> (always active)
 
 - Event-driven: When <trigger>, the <system name> shall <system response>
 
