@@ -1,3 +1,5 @@
+Relevance: 
+
 1. Ce problema..., 
 
 Scaling Model-Based Development (driven by aviation standards DO-178C / DO-331) at Honeywell required high-quality textual requirements, as standard EARS alone still allows inconsistent domain terminology and vague action verbs (e.g., "modulate", "maintain").
@@ -8,15 +10,12 @@ Furthermore, refining high-level system requirements down into detailed software
 
 Domain Glossary & Constrained Action Language (restricting terminology so it is less ambiguous)
 
-reducing the need to refer to the actor
-
-adding a higher level of specifity by augmenting the EARS syntax (priority, startup, default behaviours)
 
 Constrained Language Enhanced Approach to Requirements (CLEAR). (augmented EARS):
 
 	-reduces the need to refer to the actor
 
-	-adds a higher level of specifity by augmenting the EARS syntax (priority, startup, default behaviours)
+	-adds a higher level of specificity by augmenting the EARS syntax (priority, startup, default behaviours)
 
 
 3. Exemple/use-cases, 
@@ -34,15 +33,7 @@ Can we integrate EARS requirements with model-based development technologies suc
 
 Personal notes:
 
-
-reducing the need to refer to the actor?
-
-adding a higher level of specifity by augmenting the EARS syntax (priority, startup, default behaviours)
-
-Language Enhanced Approach to Requirements (CLEAR).
-
 to read
-
 
 [13] D. Bhatt, A. Murugesan, B. Hall, H. Ren, and Y. Jeppu,
 “The CLEAR way to transparent formal methods.” https:
