@@ -18,7 +18,7 @@ Method:
 
 -Built on the concept of ECA, it included rules of thumb such as the use of "when" (event-driven behaviour), "while" (state-driven behaviour), "if-then" (failures) 
 	
-(While <precondition>, When <trigger>, the <system name> shall <system response>)
+(While < precondition >, When < trigger >, the < system name > shall < system response >)
 
 - the paper cs-e 50 was used: 
 	first phase: the clauses were broken into parts, all requirements were placed into a spreadsheet
@@ -26,15 +26,15 @@ Method:
 - tested the effectiveness of the EARS ruleset
 
 EARS templates:
-- Ubiquitous: The < system name > shall <system response> (always active)
+- Ubiquitous: The < system name > shall < system response > (always active)
 
-- Event-driven: When <trigger>, the <system name> shall <system response>
+- Event-driven: When < trigger >, the < system name > shall < system response >
 
-- Unwanted behavior: If <unwanted condition/trigger>, then the <system name> shall <system response>
+- Unwanted behavior: If < unwanted condition/trigger >, then the < system name > shall < system response >
 
-- State-driven: While <in a specific state>, the <system name> shall <system response>
+- State-driven: While < in a specific state >, the < system name > shall < system response >
 
-- Optional feature: Where <feature is included>, the <system name> shall <system response>
+- Optional feature: Where < feature is included >, the < system name > shall < system response >
 
 case-study:
 
@@ -56,6 +56,8 @@ Does Ears work for other types of requirements? (it was only tested on high-leve
 
 
 Personal notes:
+
+Relevance: Introduces EARS
 
 Formal notations for specifying requirements:
 
@@ -103,7 +105,6 @@ method:
 
 result: more clear and efficient statements, it increased the number of requirements while reducing the amount of words per requirement.
 limitations: small sample size, restriction to only high-level safety-related requirements
-
 
 
 
