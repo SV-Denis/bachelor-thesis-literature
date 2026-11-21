@@ -30,5 +30,4 @@ Should novices be forced to cover every EARS pattern, and how should EARS handle
 Side note: it could tie well with why we should be trying to automatize the transformation of requirements into EARS
 
 Personal notes:
--Nu cred ca este relevant, studiul in sine este foarte scurt, EARS a fost prezentat in foarte putine masuri, insa poate fi relevant cu de ce automatizarea ar fi o idee buna
-
+- not very relevant, the study is short, EARS was presented in small amounts, but it can be relevant for showing why an automated transformation from natural language to EARS could be needed.
