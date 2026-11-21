@@ -1,3 +1,5 @@
+Relevance: Shows an approach to transforming EARS requirements into another form readable by the computer (Linear Temporal Logic). 
+
 1. Ce problema..., 
 
 turning EARS into fully precise formal specifications |Formalizing EARS using Linear Temporal Logic|  (to be used in code synthesis, formal verification, test case generation)
@@ -69,11 +71,6 @@ IETS3 project ( synthesizing software controllers directly from EARS specificati
 
 [1] EARS-CTRL Model Development Environment. https://github.com/
 levilucio/EARS-CTRL.git.
-
-
-case study:
-
-a system that includes a main engine, an auxiliary engine and an oil pump engine, the sequence to start the machine is to first run the old pump engine; after 10 seconds start the main engine; and after 5 more seconds start the auxiliary engine. The requirements have been written in EARS.
 
 method:
 
