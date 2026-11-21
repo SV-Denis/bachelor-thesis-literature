@@ -20,7 +20,7 @@ Method:
 	
 (While < precondition >, When < trigger >, the < system name > shall < system response >)
 
-- the paper cs-e 50 was used: 
+- the standard cs-e 50 was used: 
 	first phase: the clauses were broken into parts, all requirements were placed into a spreadsheet
 	second phase: requirements were rewritten using EARS
 - tested the effectiveness of the EARS ruleset
